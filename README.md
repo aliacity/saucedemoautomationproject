@@ -9,10 +9,10 @@ To successfully execute these scripts the instructions are as follows:
       You can also download node here https://nodejs.org/en/download/
     
   2. Create a project folder and install cypress using the following commands
-        ' mkdir <your desirred project name> '
-        ' cd <your desirred project name> '
-        ' npm init-y '
-        ' npm install cypress '
+        1. ' mkdir <your desirred project name> '
+        2. ' cd <your desirred project name> '
+        3. ' npm init-y '
+        4. ' npm install cypress '
       
   3. Once cypress is installed you can open the cypress application using the following command
        ' npx cypress open '
