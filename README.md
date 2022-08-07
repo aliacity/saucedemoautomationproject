@@ -19,16 +19,16 @@ To successfully execute these scripts the instructions are as follows:
        
   4. Next youll need to clone this repository into your project folder
        This can be done using the clone url:
-          - Navigate to the main page of the repository in github
-          - click " Code" and copy the url for the repository
-          - Open terminal and navigate to your project folder
-          - Type ' git clone <repository url> '
-          - hit Enter
+          1. Navigate to the main page of the repository in github
+          2. click " Code" and copy the url for the repository
+          3. Open terminal and navigate to your project folder
+          4. Type ' git clone <repository url> '
+          5. hit Enter
        
        Other methods can be found here https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
        
   5. Once the project has been cloned, you simply run the tests using the command:
-        ' npx cypress run '
+       1. ' npx cypress run '
         
   6. Test execution reports can be found in the cypress/results folder
          Copy the path from any of the html files generated, open in a browser to view the report for that spec file
