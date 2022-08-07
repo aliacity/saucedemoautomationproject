@@ -31,6 +31,6 @@ To successfully execute these scripts the instructions are as follows:
         ' npx cypress run '
         
   6. Test execution reports can be found in the cypress/results folder
-         copy the path from any of the html files, open in a browser to view the report for that spec file
+         Copy the path from any of the html files generated, open in a browser to view the report for that spec file
     
    
