@@ -15,6 +15,7 @@ To successfully execute these scripts the instructions are as follows:
         4. ' npm install cypress '
       
   3. Once cypress is installed you can open the cypress application using the following command
+  
        ' npx cypress open '
        
   4. Next youll need to clone this repository into your project folder
