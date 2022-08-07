@@ -18,12 +18,13 @@ To successfully execute these scripts the instructions are as follows:
        ' npx cypress open '
        
   4. Next youll need to clone this repository into your project folder
-       This can be done using the clone url:
-         1. Navigate to the main page of the repository in github
-         2. click " Code" and copy the url for the repository
-         3. Open terminal and navigate to your project folder
-         4. Type ' git clone <repository url> '
-         5.  hit Enter
+  
+        1. Navigate to the main page of the repository in github
+        2. click " Code" and copy the url for the repository
+        3. Open terminal and navigate to your project folder
+        4. Type ' git clone <repository url> '
+        5. hit enter
+ 
        
        Other methods can be found here https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
        
