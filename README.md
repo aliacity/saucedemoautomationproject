@@ -23,7 +23,7 @@ To successfully execute these scripts the instructions are as follows:
           2. click " Code" and copy the url for the repository
           3. Open terminal and navigate to your project folder
           4. Type ' git clone <repository url> '
-          5. hit Enter
+          5.  hit Enter
        
        Other methods can be found here https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
        
